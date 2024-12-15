@@ -1,5 +1,6 @@
 # Data-Preparation-DNC
-This repository contains the challenge 5 of the course Data Science at Escola DNC.
+
+**Disclaimer:** This repository contains the challenge 5 of the course Data Science at Escola DNC. You will need to unzip the file 'Data.zip' to get the CSV file used here in this repository. It was necessary to compact it because of the upload size limit.
 
 # **Business Understanding**
 
@@ -13,9 +14,7 @@ Here is the definition of RFM, by each of its letters:
 
 **M (Monetary):** Average ticket value spent by the customer, where average ticket = average total spent per order for each customer.
 
-To do this, we will use a database, and with it we will build
-Python code that generates an output, also csv, but containing only the customer's
-customer identification and RFM metrics.
+To do this, we will use a database, and with it we will build Python code that generates an output, but containing only the customer's customer identification and RFM metrics.
 
 # About the data
 
