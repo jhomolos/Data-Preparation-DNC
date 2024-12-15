@@ -61,3 +61,7 @@ This challenge is made of 10 steps, which are:
 10 - Calculating the RFM Metric
 
 This challenge is made of 10 steps, which are: 
+
+# **Conclusion**
+
+As proposed, we were able to calculate the RFM metrics for each customer, generating a new dataset, which could be used in a clustering project to divide customers into groups with higher or lower average tickets, their purchase frequency, churn candidates, among others.
