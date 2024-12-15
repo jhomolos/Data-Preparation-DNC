@@ -36,3 +36,29 @@ The table contains information on e-commerce purchases in 37 countries, as well 
 **UnitPrice:** Product unit price
 
 **Country:** Country of purchase
+
+# Steps
+
+This challenge is made of 10 steps, which are:
+
+01 - Reading the dataset file and inspecting its data
+
+02 - Missing values in customer identification
+
+03 - Unit prices and quantity of products equal to or less than 0
+
+04 - Verifying if there exists duplicated rows
+
+05 - Assigning Correct Data Types
+
+06 - Treament of Outliers
+
+07 - Data Enrichtment
+
+08 - Obtaining the Last date of Purchase
+
+09 - Plotting graphs
+
+10 - Calculating the RFM Metric
+
+This challenge is made of 10 steps, which are: 
